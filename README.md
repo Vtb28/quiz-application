@@ -12,6 +12,6 @@
 
 This is made as an assignment while learning Javascript
 
-Demo: https://ovi.github.io/quiz-app
+Demo: https://vtb28.github.io/quiz-application/
 
-Key: **11223344**
+Key: **123**
